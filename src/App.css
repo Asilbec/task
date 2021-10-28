@@ -79,12 +79,6 @@ body {
   animation: fadeInUp 0.5s linear;
 }
 
-.list button:hover {
-  color: #000000;
-  border: solid rgb(255, 0, 0) 2px;
-  transition: ease-in 0.1s;
-}
-
 @keyframes shake {
   10%,
   90% {
